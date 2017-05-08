@@ -96,4 +96,9 @@ a {
   margin: 0 auto;
 }
 input{width: 50px}
+.col-xs-1{
+  border: 1px solid #CCCCCC;
+  padding: 10px;
+  cursor: pointer;
+}
 </style>
