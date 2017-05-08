@@ -9,6 +9,8 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
+    "minesweeper": "^1.0.5",
+    "underscore": "^1.8.3",
     "vue": "^2.2.1"
   },
   "devDependencies": {
